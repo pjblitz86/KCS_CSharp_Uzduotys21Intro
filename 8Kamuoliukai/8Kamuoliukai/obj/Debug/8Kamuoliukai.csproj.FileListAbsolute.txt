@@ -1,0 +1,9 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\8Kamuoliukai\8Kamuoliukai\bin\Debug\8Kamuoliukai.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\8Kamuoliukai\8Kamuoliukai\bin\Debug\8Kamuoliukai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\8Kamuoliukai\8Kamuoliukai\bin\Debug\8Kamuoliukai.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\8Kamuoliukai\8Kamuoliukai\obj\Debug\8Kamuoliukai.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\8Kamuoliukai\8Kamuoliukai\obj\Debug\8Kamuoliukai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\8Kamuoliukai\8Kamuoliukai\obj\Debug\8Kamuoliukai.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\CSharpUzduotysKCS\UzduotysPradzia\8Kamuoliukai\8Kamuoliukai\bin\Debug\8Kamuoliukai.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\CSharpUzduotysKCS\UzduotysPradzia\8Kamuoliukai\8Kamuoliukai\obj\Debug\8Kamuoliukai.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\CSharpUzduotysKCS\UzduotysPradzia\8Kamuoliukai\8Kamuoliukai\obj\Debug\8Kamuoliukai.pdb

@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\17UzduotisKlasesUgiaiFor\17UzduotisKlasesUgiaiFor\bin\Debug\17UzduotisKlasesUgiaiFor.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\17UzduotisKlasesUgiaiFor\17UzduotisKlasesUgiaiFor\bin\Debug\17UzduotisKlasesUgiaiFor.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\17UzduotisKlasesUgiaiFor\17UzduotisKlasesUgiaiFor\bin\Debug\17UzduotisKlasesUgiaiFor.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\17UzduotisKlasesUgiaiFor\17UzduotisKlasesUgiaiFor\obj\Debug\17UzduotisKlasesUgiaiFor.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\17UzduotisKlasesUgiaiFor\17UzduotisKlasesUgiaiFor\obj\Debug\17UzduotisKlasesUgiaiFor.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\17UzduotisKlasesUgiaiFor\17UzduotisKlasesUgiaiFor\obj\Debug\17UzduotisKlasesUgiaiFor.pdb

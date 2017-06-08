@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\12UzduotisTrikampioAtkarposIf\12UzduotisTrikampioAtkarposIf\bin\Debug\12UzduotisTrikampioAtkarposIf.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\12UzduotisTrikampioAtkarposIf\12UzduotisTrikampioAtkarposIf\bin\Debug\12UzduotisTrikampioAtkarposIf.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\12UzduotisTrikampioAtkarposIf\12UzduotisTrikampioAtkarposIf\bin\Debug\12UzduotisTrikampioAtkarposIf.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\12UzduotisTrikampioAtkarposIf\12UzduotisTrikampioAtkarposIf\obj\Debug\12UzduotisTrikampioAtkarposIf.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\12UzduotisTrikampioAtkarposIf\12UzduotisTrikampioAtkarposIf\obj\Debug\12UzduotisTrikampioAtkarposIf.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\12UzduotisTrikampioAtkarposIf\12UzduotisTrikampioAtkarposIf\obj\Debug\12UzduotisTrikampioAtkarposIf.pdb

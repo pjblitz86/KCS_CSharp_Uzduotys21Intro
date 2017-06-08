@@ -1,0 +1,5 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\8UzduotisKeliamiejiMetaiFor\8UzduotisKeliamiejiMetaiFor\bin\Debug\8UzduotisKeliamiejiMetaiFor.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\8UzduotisKeliamiejiMetaiFor\8UzduotisKeliamiejiMetaiFor\bin\Debug\8UzduotisKeliamiejiMetaiFor.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\8UzduotisKeliamiejiMetaiFor\8UzduotisKeliamiejiMetaiFor\bin\Debug\8UzduotisKeliamiejiMetaiFor.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\8UzduotisKeliamiejiMetaiFor\8UzduotisKeliamiejiMetaiFor\obj\Debug\8UzduotisKeliamiejiMetaiFor.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\8UzduotisKeliamiejiMetaiFor\8UzduotisKeliamiejiMetaiFor\obj\Debug\8UzduotisKeliamiejiMetaiFor.pdb

@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\13UzduotisDezuciuTilpimas\13UzduotisDezuciuTilpimas\bin\Debug\13UzduotisDezuciuTilpimas.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\13UzduotisDezuciuTilpimas\13UzduotisDezuciuTilpimas\obj\Debug\13UzduotisDezuciuTilpimas.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\13UzduotisDezuciuTilpimas\13UzduotisDezuciuTilpimas\bin\Debug\13UzduotisDezuciuTilpimas.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\13UzduotisDezuciuTilpimas\13UzduotisDezuciuTilpimas\bin\Debug\13UzduotisDezuciuTilpimas.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\13UzduotisDezuciuTilpimas\13UzduotisDezuciuTilpimas\obj\Debug\13UzduotisDezuciuTilpimas.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\13UzduotisDezuciuTilpimas\13UzduotisDezuciuTilpimas\obj\Debug\13UzduotisDezuciuTilpimas.pdb

@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\16UzduotisBagazoSuma\16UzduotisBagazoSuma\bin\Debug\16UzduotisBagazoSuma.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\16UzduotisBagazoSuma\16UzduotisBagazoSuma\bin\Debug\16UzduotisBagazoSuma.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\16UzduotisBagazoSuma\16UzduotisBagazoSuma\bin\Debug\16UzduotisBagazoSuma.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\16UzduotisBagazoSuma\16UzduotisBagazoSuma\obj\Debug\16UzduotisBagazoSuma.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\16UzduotisBagazoSuma\16UzduotisBagazoSuma\obj\Debug\16UzduotisBagazoSuma.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\16UzduotisBagazoSuma\16UzduotisBagazoSuma\obj\Debug\16UzduotisBagazoSuma.pdb

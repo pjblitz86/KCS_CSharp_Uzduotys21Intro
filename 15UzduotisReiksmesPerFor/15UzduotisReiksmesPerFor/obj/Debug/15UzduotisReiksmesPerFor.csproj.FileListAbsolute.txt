@@ -1,0 +1,5 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\15UzduotisReiksmesPerFor\15UzduotisReiksmesPerFor\bin\Debug\15UzduotisReiksmesPerFor.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\15UzduotisReiksmesPerFor\15UzduotisReiksmesPerFor\bin\Debug\15UzduotisReiksmesPerFor.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\15UzduotisReiksmesPerFor\15UzduotisReiksmesPerFor\bin\Debug\15UzduotisReiksmesPerFor.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\15UzduotisReiksmesPerFor\15UzduotisReiksmesPerFor\obj\Debug\15UzduotisReiksmesPerFor.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\15UzduotisReiksmesPerFor\15UzduotisReiksmesPerFor\obj\Debug\15UzduotisReiksmesPerFor.pdb

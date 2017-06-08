@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\19UzduotisAutobusai\19UzduotisAutobusai\bin\Debug\19UzduotisAutobusai.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\19UzduotisAutobusai\19UzduotisAutobusai\bin\Debug\19UzduotisAutobusai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\19UzduotisAutobusai\19UzduotisAutobusai\bin\Debug\19UzduotisAutobusai.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\19UzduotisAutobusai\19UzduotisAutobusai\obj\Debug\19UzduotisAutobusai.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\19UzduotisAutobusai\19UzduotisAutobusai\obj\Debug\19UzduotisAutobusai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\19UzduotisAutobusai\19UzduotisAutobusai\obj\Debug\19UzduotisAutobusai.pdb

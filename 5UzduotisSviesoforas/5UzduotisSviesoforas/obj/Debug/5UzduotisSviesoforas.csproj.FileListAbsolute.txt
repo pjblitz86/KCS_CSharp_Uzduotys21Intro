@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\5UzduotisSviesoforas\5UzduotisSviesoforas\bin\Debug\5UzduotisSviesoforas.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\5UzduotisSviesoforas\5UzduotisSviesoforas\bin\Debug\5UzduotisSviesoforas.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\5UzduotisSviesoforas\5UzduotisSviesoforas\bin\Debug\5UzduotisSviesoforas.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\5UzduotisSviesoforas\5UzduotisSviesoforas\obj\Debug\5UzduotisSviesoforas.csprojResolveAssemblyReference.cache
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\5UzduotisSviesoforas\5UzduotisSviesoforas\obj\Debug\5UzduotisSviesoforas.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\5UzduotisSviesoforas\5UzduotisSviesoforas\obj\Debug\5UzduotisSviesoforas.pdb

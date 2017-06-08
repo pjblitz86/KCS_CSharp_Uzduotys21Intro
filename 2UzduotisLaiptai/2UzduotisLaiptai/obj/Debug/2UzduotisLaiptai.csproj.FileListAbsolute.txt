@@ -1,0 +1,9 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\2UzduotisLaiptai\2UzduotisLaiptai\bin\Debug\2UzduotisLaiptai.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\2UzduotisLaiptai\2UzduotisLaiptai\bin\Debug\2UzduotisLaiptai.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\2UzduotisLaiptai\2UzduotisLaiptai\bin\Debug\2UzduotisLaiptai.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\2UzduotisLaiptai\2UzduotisLaiptai\obj\Debug\2UzduotisLaiptai.csprojResolveAssemblyReference.cache
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\2UzduotisLaiptai\2UzduotisLaiptai\obj\Debug\2UzduotisLaiptai.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\2UzduotisLaiptai\2UzduotisLaiptai\obj\Debug\2UzduotisLaiptai.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\CSharpUzduotysKCS\UzduotysPradzia\2UzduotisLaiptai\2UzduotisLaiptai\bin\Debug\2UzduotisLaiptai.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\CSharpUzduotysKCS\UzduotysPradzia\2UzduotisLaiptai\2UzduotisLaiptai\obj\Debug\2UzduotisLaiptai.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\CSharpUzduotysKCS\UzduotysPradzia\2UzduotisLaiptai\2UzduotisLaiptai\obj\Debug\2UzduotisLaiptai.pdb

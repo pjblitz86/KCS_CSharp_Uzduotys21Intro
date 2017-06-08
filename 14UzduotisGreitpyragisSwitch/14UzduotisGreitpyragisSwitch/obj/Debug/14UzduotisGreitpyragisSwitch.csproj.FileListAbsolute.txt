@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\14UzduotisGreitpyragisSwitch\14UzduotisGreitpyragisSwitch\bin\Debug\14UzduotisGreitpyragisSwitch.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\14UzduotisGreitpyragisSwitch\14UzduotisGreitpyragisSwitch\bin\Debug\14UzduotisGreitpyragisSwitch.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\14UzduotisGreitpyragisSwitch\14UzduotisGreitpyragisSwitch\bin\Debug\14UzduotisGreitpyragisSwitch.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\14UzduotisGreitpyragisSwitch\14UzduotisGreitpyragisSwitch\obj\Debug\14UzduotisGreitpyragisSwitch.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\14UzduotisGreitpyragisSwitch\14UzduotisGreitpyragisSwitch\obj\Debug\14UzduotisGreitpyragisSwitch.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\14UzduotisGreitpyragisSwitch\14UzduotisGreitpyragisSwitch\obj\Debug\14UzduotisGreitpyragisSwitch.pdb

@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\3UzduotisMenDienVal\3UzduotisMenDienVal\bin\Debug\3UzduotisMenDienVal.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\3UzduotisMenDienVal\3UzduotisMenDienVal\bin\Debug\3UzduotisMenDienVal.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\3UzduotisMenDienVal\3UzduotisMenDienVal\bin\Debug\3UzduotisMenDienVal.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\3UzduotisMenDienVal\3UzduotisMenDienVal\obj\Debug\3UzduotisMenDienVal.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\3UzduotisMenDienVal\3UzduotisMenDienVal\obj\Debug\3UzduotisMenDienVal.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\3UzduotisMenDienVal\3UzduotisMenDienVal\obj\Debug\3UzduotisMenDienVal.pdb

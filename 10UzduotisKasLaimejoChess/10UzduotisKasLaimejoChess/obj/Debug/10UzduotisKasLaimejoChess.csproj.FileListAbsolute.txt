@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\10UzduotisKasLaimejoChess\10UzduotisKasLaimejoChess\bin\Debug\10UzduotisKasLaimejoChess.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\10UzduotisKasLaimejoChess\10UzduotisKasLaimejoChess\bin\Debug\10UzduotisKasLaimejoChess.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\10UzduotisKasLaimejoChess\10UzduotisKasLaimejoChess\bin\Debug\10UzduotisKasLaimejoChess.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\10UzduotisKasLaimejoChess\10UzduotisKasLaimejoChess\obj\Debug\10UzduotisKasLaimejoChess.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\10UzduotisKasLaimejoChess\10UzduotisKasLaimejoChess\obj\Debug\10UzduotisKasLaimejoChess.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\10UzduotisKasLaimejoChess\10UzduotisKasLaimejoChess\obj\Debug\10UzduotisKasLaimejoChess.pdb

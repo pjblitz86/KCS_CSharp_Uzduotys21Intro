@@ -1,0 +1,5 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\18UzduotisKatinas\18UzduotisKatinas\bin\Debug\18UzduotisKatinas.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\18UzduotisKatinas\18UzduotisKatinas\bin\Debug\18UzduotisKatinas.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\18UzduotisKatinas\18UzduotisKatinas\bin\Debug\18UzduotisKatinas.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\18UzduotisKatinas\18UzduotisKatinas\obj\Debug\18UzduotisKatinas.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\18UzduotisKatinas\18UzduotisKatinas\obj\Debug\18UzduotisKatinas.pdb
